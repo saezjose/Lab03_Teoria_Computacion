@@ -3,7 +3,6 @@
 <structure>
 	<type>grammar</type>
 	<productions>
-		
 		<production>
 			<left>S</left>
 			<right>bpJLe</right>
